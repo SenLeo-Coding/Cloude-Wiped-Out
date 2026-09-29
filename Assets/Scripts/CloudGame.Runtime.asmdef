@@ -1,0 +1,21 @@
+{
+    "name": "CloudGame.Runtime",
+    "rootNamespace": "CloudGame",
+    "references": [
+        "UnityEngine.UI",
+        "Unity.Services.Core",
+        "Unity.Services.Core.Configuration",
+        "Unity.Services.Authentication",
+        "Unity.Services.Authentication.PlayerAccounts",
+        "Unity.Services.CloudSave"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
